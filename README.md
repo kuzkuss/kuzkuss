@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nastya</h1>
 
 <br>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuzkuss&label=Profile%20views&color=0e75b6&style=flat" alt="kuzkuss" /> </p>
 
 - 👩‍🎓 <a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7(2rd year);
 
