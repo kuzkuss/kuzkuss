@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nastya Kuznetsova</h1>
-<h3 align="center">BMSTU Student ICS7(2rd year)🌟</h3>
 
 - 👩‍🎓 <a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7(2rd year);
 
