@@ -3,7 +3,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuzkuss&label=Profile%20views&color=0e75b6&style=flat" alt="kuzkuss" /> </p>
 
-- 👩‍🎓 <a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7(2rd year);
+- 👩‍🎓 <a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7(2nd year);
 
 - 👩‍💻 Student of <a href="https://park.vk.company/" >VK Technopark</a>.
 
