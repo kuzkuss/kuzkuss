@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Nastya Kuznetsova</h1>
+<h1 align="center">Hi 👋, I'm Nastya</h1>
 
 <br>
 <br>
