@@ -3,9 +3,10 @@
 <h1 align="center">Hi 👋, I'm Nastya Kuznetsova</h1>
 <h3 align="center">BMSTU Student ICS7(2rd year)🌟</h3>
 
-- :student: <a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7(2rd year);
+- 👩‍🎓 <a href="https://www.bmstu.ru/" >BMSTU</a> Student ICS7(2rd year);
 
-- :student: Student of <a href="https://park.vk.company/" >VK Technopark</a>.
+- 👩‍💻 Student of <a href="https://park.vk.company/" >VK Technopark</a>.
+
 
 
 <br>
