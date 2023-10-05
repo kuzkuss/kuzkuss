@@ -5,7 +5,9 @@
 
 - 👩‍🎓 <a href="http://www.bmstu.ru/" >BMSTU</a> Student ICS7(3rd year);
 
-- 👩‍💻 Student of <a href="https://park.vk.company/" >VK Technopark</a>.
+- 👩‍🎓 Student of <a href="https://park.vk.company/" >VK Technopark</a>.
+
+- 👩‍💻 VK Golang developer.
 
 
 
